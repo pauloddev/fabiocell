@@ -1,0 +1,6 @@
+# Permite o rastreamento de todo o site público.
+User-agent: *
+Allow: /
+
+# TODO: PREENCHER. Troque pelo link de produção do Vercel (ou domínio próprio).
+Sitemap: https://TROCAR-PELO-LINK-DO-VERCEL.vercel.app/sitemap.xml
